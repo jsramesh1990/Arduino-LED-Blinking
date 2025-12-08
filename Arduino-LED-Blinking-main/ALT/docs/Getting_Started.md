@@ -23,6 +23,7 @@
 
 ### Wiring Diagram
 
+<img width="1024" height="1024" alt="ALT" src="https://github.com/user-attachments/assets/12cee3a3-646a-49ca-8984-ebea8c5eabc1" />
 
 
 
