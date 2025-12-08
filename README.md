@@ -1,4 +1,4 @@
-# 🔥 Arduino LED Blinking Project
+# Arduino LED Blinking Project
 
 
 A simple and beginner-friendly project demonstrating how to blink an LED using an **Arduino UNO**.
@@ -12,7 +12,7 @@ This repository includes:
 ---
 
 
-## 🚀 Features
+## Features
 - Simple LED blink example
 - Beginner friendly repository
 - Clean folder structure
@@ -22,7 +22,7 @@ This repository includes:
 ---
 
 
-## 🔧 Components Required
+##  Components Required
 - Arduino UNO
 - LED
 - 220Ω Resistor
@@ -32,7 +32,7 @@ This repository includes:
 ---
 
 
-## 🔌 Wiring Instructions
+##  Wiring Instructions
 | LED Pin | Connects To |
 |--------|--------------|
 | Long Leg (+) | Resistor → Arduino Pin **13** |
@@ -42,7 +42,7 @@ This repository includes:
 ---
 
 
-## 📁 File Locations
+##  File Locations
 - Code → `src/led_blink.ino`
 - Wiring Guide → `docs/wiring_guide.md`
 - Schematics Folder → `schematics/`
@@ -51,7 +51,7 @@ This repository includes:
 ---
 
 
-## ▶️ Upload to Tinkercad
+##   Upload to Tinkercad
 1. Open **Tinkercad → Circuits**
 2. Select **Create New Circuit**
 3. Add components and wire them as per guide
@@ -62,7 +62,7 @@ This repository includes:
 ---
 
 
-## 🧑‍💻 Arduino Code
+##   Arduino Code
 ```cpp
 void setup() {
 pinMode(13, OUTPUT);
