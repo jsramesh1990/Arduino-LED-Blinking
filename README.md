@@ -1,5 +1,11 @@
 # Arduino LED Blinking Project
 
+Arduino Embedded Systems Development Suite
+https://img.shields.io/badge/License-MIT-yellow.svg
+https://img.shields.io/badge/Platform-Arduino-00979D.svg
+https://img.shields.io/badge/Kernel-AVR%2520GCC-blue.svg
+https://img.shields.io/badge/build-passing-brightgreen
+https://img.shields.io/badge/version-2.0.0-orange
 
 A simple and beginner-friendly project demonstrating how to blink an LED using an **Arduino UNO**.
 This repository includes:
