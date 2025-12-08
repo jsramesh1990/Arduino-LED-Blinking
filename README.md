@@ -1,12 +1,15 @@
 # Arduino LED Blinking Project
 
-Arduino Embedded Systems Development Suite
+<div align="center">
 
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/Platform-Arduino-00979D.svg
-https://img.shields.io/badge/Kernel-AVR%2520GCC-blue.svg
-https://img.shields.io/badge/build-passing-brightgreen
-https://img.shields.io/badge/version-2.0.0-orange
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+<img src="https://img.shields.io/badge/Platform-Arduino-00979D.svg">
+<img src="https://img.shields.io/badge/Kernel-AVR_GCC-blue.svg">
+<img src="https://img.shields.io/badge/Version-2.0.0-orange.svg">
+<img src="https://img.shields.io/badge/Build-Passing-brightgreen.svg">
+
+</div>
+
 
 
 
