@@ -1,0 +1,50 @@
+Arduino-LED-Blinking-main/
+├── ALT/
+│   ├── docs/
+│   │   ├── Project_Overview.md
+│   │   ├── Getting_Started.md
+│   │   ├── API_Reference.md
+│   │   ├── Troubleshooting.md
+│   │   └── wiring_diagrams/
+│   │       ├── led_blink_wiring.png
+│   │       ├── traffic_light_wiring.png
+│   │       ├── pir_sensor_wiring.png
+│   │       ├── ultrasonic_wiring.png
+│   │       ├── temperature_wiring.png
+│   │       └── servo_wiring.png
+│   │
+│   ├── LICENSE
+│   ├── Project.Structure.c
+│   ├── README.md
+│   ├── schematics/
+│   │   ├── led_blink.fzz
+│   │   ├── traffic_light.fzz
+│   │   ├── pir_sensor.fzz
+│   │   ├── ultrasonic.fzz
+│   │   ├── temperature_lcd.fzz
+│   │   └── servo_motor.fzz
+│   │
+│   └── src/
+│       ├── led_blink.ino
+│       ├── pir_motion_alarm.ino
+│       ├── servo_control.ino
+│       ├── temperature_lcd.ino
+│       ├── traffic_light.ino
+│       ├── ultrasonic_distance.ino
+│       ├── libraries/
+│       │   ├── README.md
+│       │   └── required_libraries.txt
+│       └── utils/
+│           ├── helpers.h
+│           └── config.h
+│
+└── extras/
+    ├── examples/
+    │   ├── advanced_led_patterns.ino
+    │   └── combined_system.ino
+    ├── tests/
+    │   ├── test_leds.ino
+    │   └── test_sensors.ino
+    └── 3d_prints/
+        ├── enclosure.stl
+        └── mount_bracket.stl
