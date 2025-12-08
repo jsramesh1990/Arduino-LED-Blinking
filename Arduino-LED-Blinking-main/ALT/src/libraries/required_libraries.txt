@@ -1,0 +1,25 @@
+Required Libraries:
+
+1. Servo Library (Built-in)
+   - For: servo_control.ino
+   - Installation: Built into Arduino IDE
+
+2. LiquidCrystal Library (Built-in)
+   - For: temperature_lcd.ino
+   - Installation: Built into Arduino IDE
+
+Optional Libraries (for advanced projects):
+
+3. DHT Sensor Library
+   - For: Advanced temperature projects
+   - Installation: Sketch > Include Library > Manage Libraries > Search "DHT"
+
+4. NewPing Library
+   - For: Better ultrasonic sensor handling
+   - Installation: Sketch > Include Library > Manage Libraries > Search "NewPing"
+
+Installation via Arduino IDE:
+1. Open Arduino IDE
+2. Go to Sketch > Include Library > Manage Libraries
+3. Search for library name
+4. Click Install
